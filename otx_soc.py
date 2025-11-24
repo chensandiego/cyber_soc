@@ -5,7 +5,7 @@ from typing import List, Dict
 
 # ---------------- OTX CONFIG ----------------
 OTX_API_URL = "https://otx.alienvault.com/api/v1/pulses/subscribed"
-OTX_API_KEY = "5e330b0bb672d399743d72202730638597668f4f17885d16c35b68fdfece6e3f"
+OTX_API_KEY = "get otx api"
 
 # ---------------- LLM CONFIG ----------------
 OLLAMA_HOST = "http://localhost:11434"
